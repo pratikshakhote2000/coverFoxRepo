@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Handling age drop down]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pincode]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mob no]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Tc validateTestPlansFromTextAndBanners execucation is started]]>
+    </line>
+    <line>
+      <![CDATA[Fetching number of results from text]]>
+    </line>
+    <line>
+      <![CDATA[Fetching number of results from Banners]]>
+    </line>
+    <line>
+      <![CDATA[TC is Passed]]>
+    </line>
+    <line>
+      <![CDATA[Taking Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Saved Screenshot atC:\Software_T\SeleniumScreenshot\coverFoxCF_TC012024.01.17.22.34.33.png]]>
+    </line>
+    <line>
+      <![CDATA[Tc validateTestPlansFromTextAndBanners is running SuccessFully]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[opening Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Handling age drop down]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mob no]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Tc validate_error_message execucation is started]]>
+    </line>
+    <line>
+      <![CDATA[validating Pincode error message]]>
+    </line>
+    <line>
+      <![CDATA[Tc will passed]]>
+    </line>
+    <line>
+      <![CDATA[Tc validate_error_message is running SuccessFully]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-17T22:34:03 IST" name="Suite" finished-at="2024-01-17T22:35:10 IST" duration-ms="66658">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T22:34:03 IST" name="Test" finished-at="2024-01-17T22:35:10 IST" duration-ms="66658">
+      <class name="coverFox_TestNG_Text.CF_TC02_Validate_Error_message">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFox_TestNG_Text.CF_TC02_Validate_Error_message@5149d738]" started-at="2024-01-17T22:34:45 IST" name="launchBrowser" finished-at="2024-01-17T22:34:50 IST" duration-ms="4961" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[opening Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMembersDetails()[pri:0, instance:coverFox_TestNG_Text.CF_TC02_Validate_Error_message@5149d738]" started-at="2024-01-17T22:34:50 IST" name="enterMembersDetails" finished-at="2024-01-17T22:34:55 IST" duration-ms="5435" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Handling age drop down]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mob no]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMembersDetails -->
+        <test-method signature="validate_error_message()[pri:0, instance:coverFox_TestNG_Text.CF_TC02_Validate_Error_message@5149d738]" started-at="2024-01-17T22:34:55 IST" name="validate_error_message" finished-at="2024-01-17T22:34:57 IST" duration-ms="2067" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc validate_error_message execucation is started]]>
+            </line>
+            <line>
+              <![CDATA[validating Pincode error message]]>
+            </line>
+            <line>
+              <![CDATA[Tc will passed]]>
+            </line>
+            <line>
+              <![CDATA[Tc validate_error_message is running SuccessFully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_error_message -->
+        <test-method is-config="true" signature="closeCoverFoxBrowser()[pri:0, instance:coverFox_TestNG_Text.CF_TC02_Validate_Error_message@5149d738]" started-at="2024-01-17T22:34:57 IST" name="closeCoverFoxBrowser" finished-at="2024-01-17T22:35:10 IST" duration-ms="12157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFoxBrowser -->
+      </class> <!-- coverFox_TestNG_Text.CF_TC02_Validate_Error_message -->
+      <class name="coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies@75d3a5e0]" started-at="2024-01-17T22:34:03 IST" name="launchBrowser" finished-at="2024-01-17T22:34:08 IST" duration-ms="5480" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMembersDetails()[pri:0, instance:coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies@75d3a5e0]" started-at="2024-01-17T22:34:08 IST" name="enterMembersDetails" finished-at="2024-01-17T22:34:15 IST" duration-ms="6989" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Handling age drop down]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Pincode]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mob no]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMembersDetails -->
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies@75d3a5e0]" started-at="2024-01-17T22:34:15 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-17T22:34:34 IST" duration-ms="18332" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc validateTestPlansFromTextAndBanners execucation is started]]>
+            </line>
+            <line>
+              <![CDATA[Fetching number of results from text]]>
+            </line>
+            <line>
+              <![CDATA[Fetching number of results from Banners]]>
+            </line>
+            <line>
+              <![CDATA[TC is Passed]]>
+            </line>
+            <line>
+              <![CDATA[Taking Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[Saved Screenshot atC:\Software_T\SeleniumScreenshot\coverFoxCF_TC012024.01.17.22.34.33.png]]>
+            </line>
+            <line>
+              <![CDATA[Tc validateTestPlansFromTextAndBanners is running SuccessFully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTestPlansFromTextAndBanners -->
+        <test-method is-config="true" signature="closeCoverFoxBrowser()[pri:0, instance:coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies@75d3a5e0]" started-at="2024-01-17T22:34:34 IST" name="closeCoverFoxBrowser" finished-at="2024-01-17T22:34:45 IST" duration-ms="11202" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFoxBrowser -->
+      </class> <!-- coverFox_TestNG_Text.CF_TC01_Validate_Search_Research_for_healthcare_policies -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
