@@ -59,6 +59,7 @@ public class CF_TC01_Validate_Search_Research_for_healthcare_policies extends Ba
 
 		Reporter.log("Handling age drop down", true);
 		memberDetails.dropDownHandle(Utility.readDataFRomExcelSheet(1, 0));
+
 		Reporter.log("Clicking on next button", true);
 		memberDetails.clickOnnextButtonPage3();
 		Thread.sleep(1000);
